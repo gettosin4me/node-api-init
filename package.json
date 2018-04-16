@@ -1,0 +1,25 @@
+{
+  "name": "node-api-init",
+  "version": "1.0.0",
+  "description": "initial api setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gettosin4me/node-api-init.git"
+  },
+  "keywords": [
+    "Api",
+    "Init",
+    "Framework",
+    "Skeleton"
+  ],
+  "author": "Tosin Akomolafe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gettosin4me/node-api-init/issues"
+  },
+  "homepage": "https://github.com/gettosin4me/node-api-init#readme"
+}
